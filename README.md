@@ -1,4 +1,10 @@
 # text1_repo
-My text 1 repo
 
-Hi, I am changing this. you can read this.
+
+Hi, I am changing but delete. you can read this. ha ha  i am changing now on vs code.
+
+i am create new line. hh 
+
+utgd
+
+
