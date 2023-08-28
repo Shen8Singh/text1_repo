@@ -1,10 +1,9 @@
 # text1_repo
 
 
-Hi, I am changing but delete. you can read this. ha ha  i am changing now on vs code.
+Hi, I am changing but deleting. you can read this. Ha ha,  I am changing now on vs. code.
 
-i am create new line. hh 
+I am creating a new line. hh 
 
-utgd
 
 
